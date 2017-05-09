@@ -1,0 +1,17 @@
+{
+    "name": "wilcarjose/wepo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wilcar José",
+            "email": "wilcarjose@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wilcar\\Wepo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
